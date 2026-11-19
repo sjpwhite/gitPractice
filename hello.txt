@@ -5,3 +5,4 @@ The d-d-duel begins at 10:00
 I sense a powerful foe from GitHub!
 Local dragonball spotted!
 Remote dragonball found!
+Match simulator branch is powering up!
